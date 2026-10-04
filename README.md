@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✦ I am passionate about astrophysics and computer science<br>✦ student @ACS UPB</p>
+<p align="left">✦ I am passionate about Astrophysics and Computer Science<br>✦ student @ACS UPB</p>
 
 ###
 
